@@ -1,2 +1,2 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mutanplex&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727&sideNums=DD2727&currStreakNum=DD2727&border=DD2727&stroke=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
-[![MutanPlex's github activity graph](https://activity-graph.herokuapp.com/graph?username=MutanPlex&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MutanPlex's github activity graph](https://activity-graph.herokuapp.com/graph?username=MutanPlex&theme=dracula)](https://github.com/MutanPlex)
