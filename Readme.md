@@ -4,4 +4,3 @@
 <div align="center">
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 </div>
-![Profile Visit](https://komarev.com/ghpvc/?username=mutanplex&label=PROFILE+VIEWS)
