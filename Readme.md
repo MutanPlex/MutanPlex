@@ -7,3 +7,4 @@
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 	<img src="https://img.shields.io/badge/Codded%20by-MutanPlex-red" />
 </div>
+<figure><embed src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/1b7750f3-6f52-40f4-9bf6-d1d8990490c8.svg"></embed></figure>
