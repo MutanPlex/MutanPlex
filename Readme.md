@@ -4,4 +4,4 @@
 <div align="center">
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 </div>
-[![MutanPlex's GitHub stats](https://visitor-badge.glitch.me/badge?page_id=MutanPlex)
+[![MutanPlex's github activity graph](https://visitor-badge.glitch.me/badge?page_id=MutanPlex)](https://github.com/MutanPlex)
