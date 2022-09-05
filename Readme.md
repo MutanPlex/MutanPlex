@@ -4,3 +4,4 @@
 <div align="center">
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 </div>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mutanplex.visitor-badge&left_color=green&right_color=blue)
