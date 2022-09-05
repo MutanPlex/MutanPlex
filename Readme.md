@@ -4,3 +4,4 @@
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
+https://visitor-badge.glitch.me/badge?page_id=mutanplex.visitor-badge
