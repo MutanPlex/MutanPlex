@@ -2,5 +2,5 @@
 [![MutanPlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MutanPlex&theme=dark)](https://github.com/MutanPlex)
 [![MutanPlex's github activity graph](https://activity-graph.herokuapp.com/graph?username=MutanPlex&theme=dracula)](https://github.com/MutanPlex)
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 </div>
