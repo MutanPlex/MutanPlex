@@ -5,4 +5,5 @@
 [![MutanPlex's Profile Visitor](https://visitor-badge.glitch.me/badge?page_id=MutanPlex)](https://github.com/MutanPlex)
 <div align="center">
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
+	<img src="https://img.shields.io/badge/Codded%20by-MutanPlex-red" />
 </div>
