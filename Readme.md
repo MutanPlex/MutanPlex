@@ -6,11 +6,17 @@
 
 <p align="center">
 - 👨‍💻 All of my projects are available at [https://mutanplex.com](https://mutanplex.com)
+</p>
 
+<p align="center">
 - 💬 Ask me about **errors in your code**
+</p>
 
+<p align="center">
 - 📫 How to reach me **admin@mutanplex.com**
+</p>
 
+<p align="center">
 - ⚡ Fun fact **Everything is just beginning...**
 </p>
 <br>
