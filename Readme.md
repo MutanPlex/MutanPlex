@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mutanplex.com](https://mutanplex.com)
 
-- 💬 Ask me about **errors in code**
+- 💬 Ask me about **errors in your code**
 
 - 📫 How to reach me **admin@mutanplex.com**
 
