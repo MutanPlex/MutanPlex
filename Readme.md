@@ -2,7 +2,7 @@
 [![MutanPlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MutanPlex&theme=dark)](https://github.com/MutanPlex)
 [![MutanPlex's github activity graph](https://activity-graph.herokuapp.com/graph?username=MutanPlex&theme=dracula)](https://github.com/MutanPlex)
 
-[![](https://visitor-badge.glitch.me/badge?page_id=MutanPlex)](https://github.com/MutanPlex)
+[![s](https://visitor-badge.glitch.me/badge?page_id=MutanPlex)](https://github.com/MutanPlex)
 <div align="center">
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 </div>
