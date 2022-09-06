@@ -48,6 +48,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=MutanPlex&theme=dark)](https://github.com/MutanPlex)
 [![](https://activity-graph.herokuapp.com/graph?username=MutanPlex&theme=dracula)](https://github.com/MutanPlex)
 <div align="center">
-	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/1b7750f3-6f52-40f4-9bf6-d1d8990490c8.svg" />
+	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/5923666b-40fa-4ebf-9f54-9d08c4604873.svg" />
+	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/82fa7c90-8e9d-47a1-85e1-a50cb5e826b1.svg" />
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 </div>
