@@ -52,3 +52,8 @@
 	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/82fa7c90-8e9d-47a1-85e1-a50cb5e826b1.svg" />
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 </div>
+<style>
+p a img{
+width:50%important;
+}
+</style>
