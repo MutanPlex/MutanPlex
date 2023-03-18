@@ -44,7 +44,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mutanplex&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727&sideNums=DD2727&currStreakNum=DD2727&border=DD2727&stroke=DD2727&currStreakLabel=DD2727)](https://github.com/MutanPlex)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex)](https://github.com/MutanPlex)
+[![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/MutanPlex)
 [![](https://github-readme-stats.vercel.app/api?username=MutanPlex&theme=dark)](https://github.com/MutanPlex)
 [![](https://activity-graph.herokuapp.com/graph?username=MutanPlex&theme=dracula)](https://github.com/MutanPlex)
 <div align="center">
