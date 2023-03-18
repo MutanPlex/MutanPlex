@@ -44,8 +44,9 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mutanplex&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727&sideNums=DD2727&currStreakNum=DD2727&border=DD2727&stroke=DD2727&currStreakLabel=DD2727)](https://github.com/MutanPlex)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
 [![](https://github.com/MutanPlex/github-stats-terminal/blob/master/github_stats.svg)](https://github.com/MutanPlex)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compacts&hide_progress=false)](https://github.com/MutanPlex)
 
 <div align="center">
 	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/5923666b-40fa-4ebf-9f54-9d08c4604873.svg" />
