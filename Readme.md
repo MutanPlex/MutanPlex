@@ -43,9 +43,7 @@
 <h3 align="center">My Github Stats</h3>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mutanplex&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727&sideNums=DD2727&currStreakNum=DD2727&border=DD2727&stroke=DD2727&currStreakLabel=DD2727)](https://github.com/MutanPlex)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mutanplex&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727&sideNums=DD2727&currStreakNum=DD2727&border=DD2727&stroke=DD2727&currStreakLabel=DD2727)](https://github.com/MutanPlex) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
 [![](https://github.com/MutanPlex/github-stats-terminal/blob/master/github_stats.svg)](https://github.com/MutanPlex)
 
 <div align="center">
