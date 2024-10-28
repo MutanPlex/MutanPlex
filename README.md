@@ -82,10 +82,7 @@
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=MutanPlex&show_icons=true&theme=transparent&layout=compact&hide=html)](https://github.com/MutanPlex)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
 
-<img src="https://github.com/MutanPlex/github-stats-terminal/blob/master/github_stats.svg" style="width:450px;"/>
 
 <div align="center">
-	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/5923666b-40fa-4ebf-9f54-9d08c4604873.svg" />
-	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/82fa7c90-8e9d-47a1-85e1-a50cb5e826b1.svg" />
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
 </div>
