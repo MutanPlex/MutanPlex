@@ -109,6 +109,8 @@
 
 
 
+# My Wakatime Stats <img src="/assets/campfire.png" alt="Campfire" width="30" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%207%20mins-blue)
 
