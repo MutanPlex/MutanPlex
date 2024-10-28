@@ -80,13 +80,15 @@
 ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%207%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-569.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 295.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 300 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,6 +96,51 @@
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                113 commits         ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+🌆 Daytime                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+🌃 Evening                163 commits         ██████████░░░░░░░░░░░░░░░   40.15 % 
+🌙 Night                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Wednesday                99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Friday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Saturday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Sunday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+Other                    6 mins              ████████████░░░░░░░░░░░░░   47.95 % 
+Bash                     5 mins              ███████████░░░░░░░░░░░░░░   44.04 % 
+C#                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+
+🔥 Editors: 
+VS Code                  12 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+github-invite            8 mins              ████████████████░░░░░░░░░   65.05 % 
+GDPIControl-master       2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Unknown Project          1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+
+💻 Operating System: 
+Windows                  12 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,12 +153,8 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/MutanPlex/MutanPlex/main/assets/bar_graph.png)
-
-
- Last Updated on 28/10/2024 05:16:32 UTC
+ Last Updated on 28/10/2024 05:26:47 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
