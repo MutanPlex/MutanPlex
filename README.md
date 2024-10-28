@@ -80,5 +80,5 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/MutanPlex/github-contribution-snake/output/github-contribution-grid-snake-dark.svg" />
+	<img src="https://raw.githubusercontent.com/MutanPlex/MutanPlex/output/github-contribution-grid-snake-dark.svg" />
 </div>
