@@ -80,7 +80,6 @@
 ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 <h4 align="center">
-  
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
@@ -102,7 +101,6 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-
 </h4>  
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/MutanPlex/MutanPlex/output/github-contribution-grid-snake-dark.svg)
