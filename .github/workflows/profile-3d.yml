@@ -19,7 +19,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name ${{ github.repository_owner }}
-          git config user.email ${{ github.email }}
+          git config user.email ${{ secrets.EMAIL }}
           git add -A .
           git commit -m "GitHub 3D Profile"
           git push
