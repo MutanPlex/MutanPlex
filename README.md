@@ -66,7 +66,7 @@
 
 <br>
 
-# <img src="/assets/handshake.png" alt="Handshake" width="30" /> Sponsor me 
+# Sponsor me <img src="/assets/handshake.png" alt="Handshake" width="30" /> 
 
 > I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the [sponsors page](https://github.com/sponsors/MutanPlex) for further details.
 
@@ -76,7 +76,7 @@
 <a href="https://www.buymeacoffee.com/mutanplex"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
 <br>
 
-# My Github Stats
+# My Github Stats <img src="/assets/campfire.png" alt="Campfire" width="30" />
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=MutanPlex&show_icons=true&theme=transparent&layout=compact&hide=html)](https://github.com/MutanPlex)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
