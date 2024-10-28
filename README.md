@@ -79,6 +79,35 @@
 ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>  
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/MutanPlex/MutanPlex/output/github-contribution-grid-snake-dark.svg)
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%207%20mins-blue)
@@ -158,6 +187,3 @@ C++                      1 repo              ░░░░░░░░░░░�
  Last Updated on 28/10/2024 05:26:47 UTC
 <!--END_SECTION:waka-->
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/MutanPlex/MutanPlex/output/github-contribution-grid-snake-dark.svg" />
-</div>
