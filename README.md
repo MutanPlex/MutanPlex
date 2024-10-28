@@ -80,6 +80,38 @@
 ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 295.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 34 Public Repositories 
+ > 
+> 🔑 27 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               19 repos            ██████████░░░░░░░░░░░░░░░   38.00 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MutanPlex/MutanPlex/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/10/2024 05:16:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
