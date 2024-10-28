@@ -75,13 +75,11 @@
 <a href="https://github.com/sponsors/MutanPlex"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
 <a href="https://www.buymeacoffee.com/mutanplex"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
 
-<br><br>
 
 # My Github Stats
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=MutanPlex&show_icons=true&theme=transparent&layout=compact&hide=html)](https://github.com/MutanPlex)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
-
 
 <div align="center">
 	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
