@@ -190,3 +190,7 @@ C++                      1 repo              ░░░░░░░░░░░�
  Last Updated on 28/10/2024 05:26:47 UTC
 <!--END_SECTION:waka-->
 
+<p align="center">
+  <img width="75%" src="metrics.svg"/>
+  <img src="metrics.detailed.svg" width="75%"/>
+</p>
