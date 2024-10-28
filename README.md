@@ -76,8 +76,8 @@
 
 # My Github Stats <img src="/assets/campfire.png" alt="Campfire" width="30" />
 
-![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+| ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/overview.svg#gh-dark-mode-only) | ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/languages.svg#gh-dark-mode-only) |
+
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/MutanPlex/MutanPlex/output/github-contribution-grid-snake-dark.svg" />
