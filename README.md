@@ -25,7 +25,6 @@
 
 # Connect <img src='/assets/cat.gif' width="30"> 
 
-<div align="center">
 	
 [![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/mutanplex)
 [![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/mutanplex)
@@ -38,7 +37,7 @@
 [![Medium](/assets/medium_blog_icon.png)](https://medium.com/@mutanplex)
 [![Youtube](/assets/youtube_icon.png)](https://www.youtube.com/c/mutanplex)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/Qj72GXF)
-</div>
+
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -72,6 +71,7 @@
 
 <a href="https://github.com/sponsors/MutanPlex"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
 <a href="https://www.buymeacoffee.com/mutanplex"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
+<br>
 <br>
 
 # My Github Stats <img src="/assets/campfire.png" alt="Campfire" width="30" />
