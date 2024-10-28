@@ -1,0 +1,91 @@
+<a align="left" href="https://instagram.com/hz.barisg" target="blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="Instagram" /></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=mutanplex&label=Profile%20views&color=0e75b6&style=flat" alt="mutanplex" /> 
+<h1 align="center">
+  <img src="/assets/Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="/assets/Hi.gif" width="40px" />
+</h1>
+<p align="center">
+  <img height="150" width="150" src="/assets/left_wing.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MutanPlex&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
+  <img height="150" width="150" src="/assets/right_wing.webp"/>
+</p>
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dark_lover)
+
+
+
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Windows and Web Development.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web, Android, Windows and Linux.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/MutanPlex/MutanPlex/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- ⚡ Fun fact **Everything is just beginning...**
+
+
+<br>
+
+# Connect <img src='/assets/cat.gif' width="30"> 
+
+<div align="center">
+	
+[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/mutanplex)
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/mutanplex)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mutanplex)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mutanplex)
+[![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16177373)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/hz.barisg)
+[![Dribbble](/assets/dribbble_icon.png)](https://dribbble.com/mutanplex)
+[![Behance](/assets/behance_icon.png)](https://www.behance.net/mutanplex)
+[![Medium](/assets/medium_blog_icon.png)](https://medium.com/@mutanplex)
+[![Youtube](/assets/youtube_icon.png)](https://www.youtube.com/c/mutanplex)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/Qj72GXF)
+</div>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# Skills <img src='/assets/code.gif' width="20"> 
+
+| Category        | Skills        |
+|-----------------|---------------|
+| Frameworks| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> |
+| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  |
+| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=udacity&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Services & Tools|  <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| Competitive Coding | <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/anmol119"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" />   |
+| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
+| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/foursquare-3333FF?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
+| Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
+
+# <img src="/assets/handshake.png" alt="Handshake" width="30" /> Sponsor me 
+
+> I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the [sponsors page](https://github.com/sponsors/MutanPlex) for further details.
+
+<br>
+
+<a href="https://github.com/sponsors/MutanPlex"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
+<a href="https://www.buymeacoffee.com/mutanplex"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
+
+<br><br>
+<h3 align="center">My Github Stats</h3>
+
+
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=MutanPlex&show_icons=true&theme=transparent&layout=compact&hide=html)](https://github.com/MutanPlex)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
+
+<img src="https://github.com/MutanPlex/github-stats-terminal/blob/master/github_stats.svg" style="width:450px;"/>
+
+<div align="center">
+	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/5923666b-40fa-4ebf-9f54-9d08c4604873.svg" />
+	<img src="https://wakatime.com/share/@b7b27fb4-3a90-46cf-99b9-f12f47d830c7/82fa7c90-8e9d-47a1-85e1-a50cb5e826b1.svg" />
+	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
+</div>
