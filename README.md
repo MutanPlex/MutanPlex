@@ -76,9 +76,9 @@
 
 # My Github Stats <img src="/assets/campfire.png" alt="Campfire" width="30" />
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=MutanPlex&show_icons=true&theme=transparent&layout=compact&hide=html)](https://github.com/MutanPlex)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=MutanPlex&theme=transparent&hide=html&show_icons=true&layout=compact)](https://github.com/MutanPlex)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MutanPlex&hide=html&show_icons=true&theme=transparent&langs_count=8&layout=compact&hide_progress=false)](https://github.com/MutanPlex)
 
 <div align="center">
-	<img src="https://github.com/MutanPlex/MutanPlex/blob/main/github-contribution-grid-snake.svg" />
+	<img src="https://github.com/MutanPlex/github-contribution-snake/tree/output/github-contribution-grid-snake.svg" />
 </div>
