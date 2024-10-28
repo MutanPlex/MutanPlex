@@ -74,7 +74,7 @@
 
 <a href="https://github.com/sponsors/MutanPlex"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
 <a href="https://www.buymeacoffee.com/mutanplex"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
-
+<br>
 
 # My Github Stats
 
