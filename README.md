@@ -76,6 +76,7 @@
 
 # My Github Stats <img src="/assets/campfire.png" alt="Campfire" width="30" />
 
+| GitHub İstatistikleri | Diller |
 | ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/overview.svg#gh-dark-mode-only) | ![](https://raw.githubusercontent.com/MutanPlex/github-stats/master/generated/languages.svg#gh-dark-mode-only) |
 
 
