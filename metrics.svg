@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2764" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2880" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 44 users
+                            Followed by 45 users
                         </div>
                     </section>
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1150 Commits
+                            1156 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    691k added, 451k removed
+                                    438k added, 328k removed
                                 </div>
                             </section>
                             <section>
@@ -264,12 +264,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 91 commits)</small>
+                    <small class="h-details">(computed from last 94 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.3 characters per line of code written</li>
+                        <li>Has approximately 41.0 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -286,27 +286,27 @@
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             01
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             02
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             03
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.5625px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.6666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             04
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             05
                         </div>
                         <div class="entry">
@@ -325,8 +325,8 @@
                             08
                         </div>
                         <div class="entry">
-                            <span class="value">25</span>
-                            <div class="bar" style="height: 39.0625px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">26</span>
+                            <div class="bar" style="height: 43.333333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             09
                         </div>
                         <div class="entry">
@@ -345,8 +345,8 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -366,37 +366,37 @@
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 7.8125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">32</span>
+                            <span class="value">30</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             21
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             23
                         </div>
                     </div>
@@ -406,8 +406,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">11</span>
-                                <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">14</span>
+                                <div class="bar" style="height: 41.17647058823529px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MostFeatured/dbi-bundler</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MostFeatured/dbi-types</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Patches dbi types for you to have auto complate while using locale.</div>
@@ -2604,7 +2604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MostFeatured/LocaleTransformator</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Locale Class Into A Yaml Or Reverse</div>
@@ -2651,7 +2651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MostFeatured/DiscordBotInfrastructure</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">İnternet üzerinde bulabileceğiniz en gelişmiş, güncel ve kullanımı basit Discord bot altyapısı.</div>
@@ -2868,10 +2868,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    44 followers
+                    45 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEsklEQVR4nM2VC0xTdxTGKZMyidMEHZmrEmFU5Q0Ft/KYZEIBBZHJZmUCBdvi1MWg2yDAEB9IEQpsTp1mmclAQDdAJ5SHYiWUMStzyENIQGUNwUhkI2FZ5ozxW85/9IZHy3CPZP/kS8495zvf797b5NbC4v9+eDye1Xw+f4WNNd/R0tLS+j8DvbjwhXDxSsfmcC/XRxu83UAK93L9/VUnhwa7RQvD/lXY8iWL5esnIOa0WrA09x+D5vGtrVzWRSeHebr8Oh0QIXLH/rgN2Cz2Ztd0Qy5rXt9LO38LJhCtFcdWD/TF7MxAYogfSjJkOJuVhOLdb+HrQwoMfHUAPzXmo6s0E+/HhDBotDQJtLNMtFb8TDAP6R6F4rsnj+W6R3g3WoL7NbksfDZ1lmRgz5vBkDf/AtqljDnC3lMq9QAp4Xw3ao7u/EuYUS0n9yHhXCfbJVHWrDD71yRBirYnj40L8SU30FeRhQcaFS4f24MLBbvQcTaLA1BNPZqRh15vfOkNDkhZlGkSxl+waEFc3X2D0UzKbhtF900dugf60XW7E109P6D77l3091xHf48e3XfusF7X7VvMc7ujFdmtI9w+KU4zbKDsGUBfeVbaZCOpt+4UtLo2DGnyUZmrwKWCHRjSV8OgK4OhtRxD+ip8U7CDzYY0BdC2fIve+lNTMkg+8qy0KTCe5XOWdCfTjQ9qc1Ff9jkGdeUYbTjKXttAxzWMNBZh5HIRq6lHs0FdBerLTrPr6TmUTQwOKBAFBUw3kQwaNbSFu9H7fRMGb2nRf7MJ965+gRGNiume9gzr0ayv/QrzGjSFM3JIAlGQPwdco8zOMGXKaRlE9UcJ7AmGLx3BYOVBNOQqUJoay0Q19WhGnqrMeOS0/GgSSAwOGHLkXKkpE2l/ohSG6kMsUL1NgvIJUMMRBavV20LZzFB1EFkyqckMEjE4YMTxKw3mjLuyP0HGej8cl0egOjMe7WdScT5nOxPV9FQn5BHMQ15zOcSYDGw0Z1Rqx5ASFYZ9b/jgM+VG9jQjdSomqk8qI9ksZaOEeZXmgY0cMDSvssIsUA8kV/dx0BPySGRHBTJRzWCRwUiu7DG7r9QDxOCA4t2qQ7OZk66NY/PHNUiXxyL/HQnS14uRHi5G3tZgpMnexubii8wzWwYxOOCKwIhQc8ZNx+rh7BuAlR4+KPggAYYLh3G38gAT1dSjmbNvIDZ92mAWSAwOOI//PD/x6tjodJNc9xtcA0JYIEn9oWzGB5t6xrlbYCjbmZ5D2cSY8rXxTylUTTbFnL4GZ791eMXViwvcvjVqBpB6xjl5aSfmdPMUoH+KWjXjW2pja7dY1jT2kAyRqgoWIHTzhsNqNzi5eXOhhWlJGK5VMalTk7i+04RXOOGNyDvPYLKmnx/a2NrZmvzHEEqk0dIv9U9XevpyQUJ3EbvzvanprGa/l5cvk3FOM/IY50yevthS0v5UKNkSbRLGfVedXHK4pUlqu65ngaZEM1M7y1e5H7aYw+G9ZO9YZApoKtTcTOC4qtCCx5sL789ja7c0XuguGntWoNDDZ2zJy8vi5k6adKz41nZL7R2Lhe6i8dmAF2tq6TcbFzgIi63n29jNFvoH5fZYdtiVWrwAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAwQH/8QALRAAAQMDAgIIBwAAAAAAAAAAAQIDEQAEBSExEhMGIjJBUWFxkRQWI1NygaH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHhEAAQQCAwEAAAAAAAAAAAAAAgABAxEEExIhMRT/2gAMAwEAAhEDEQA/AOT/ADu5wmbJEz9w7e3pRDE5TK5xNyvGYnnpt0hTxS8AEAzG8T3+enrSAgcRASpJJMAdYyabMBzMXjcgi9s1AulsJCisKI1JATvr1dY0HrSzhBm8TwklNZrrpM9xFPwqUlOigV7Ed1Brq/D9y68tISpxZXwg7SZqMmlarlx9TQQhxRIMKgyT37TM1iBEakE/uiGIaS5JDZ6dHujry8XZP5AMJ5qfpIUoAFJiTB3B1j+URyGYRdWyHnXSgEwXIUZJHj4xNK9xcOm3YSVqiCo67kms5cXHaO9br5durhztEesR6TJdZI29sbS3bHKUmXOruDsD50qh78fYVYX3J7R131qtazxUQBxUuVk/RVt4v//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFfElEQVR4nO2Ue0xTdxTHLXX0dvRBMeE1cAwuL5lugEPEWuRpoYXyKi2U14BaQeShPBTKQ0oRBgGUOcdYrUTZEFQ2BhNZYEZnYjAxZskS8ZElG8s0GTH+MeME813une1EaN2/S/wmJ/d3f/fc8zm/3zm/35o1r/Va/zuxbG2DNm0gu9lsIuL5FJPFYkWSnu4t0aIPRjOTY2bVqoS5fKXkJ3lCxJUtQQEGgT1/F5Np42qKYWv7xmYOxy6HwWCwXwmMiwydnhpsh1qVuGhvz+/cFOAzr68pxOVzPfjh/JFVbWaoE2WFaYsuzo7neTxufeVu5dLZvkb4eK3XvxLoS3qclcRsQ+B7/igtSENZoZy2zJRYfPGxdgVs6JN6qFJisU+jQLlajuw0MQL8vaGQRWO9m0unVRhBEFI+n9cWGhL4V0VFOc6cGcL4+DhaW/X4MFOGrLSdGO1vNsOocU56HDTZSSgp2YOBgQEMDp5GdXUVdghDFgUCfq+tre12izyBwP44SXp9ee3aNTx79gwv6s6dOyjOT4cmW2YG7spKRGlhOi5c+BaLi4vL/O/evQt/f78zDg72/VQfrKCx2YSMw7HT9Pb2mn++f/8+njx5Yg5ywvA5vaJLw12YHuqkgU2NWjx+/NjsMz8/j6WlJXo8OnoePB63jmq6FUAej9vE4diVzc3N0c43b96ENEEKvb7FHOzevXtQyKJQXZyJyiIlCjMTMDk5af5ObX+8VAKj8QT9TiWybp2DjsvlVK0GbOPzeeXUqig9ePAAaWkpmJmZXpZ9imQH9DVq1JVmI08Rj6tXr5q/37p1CzJZAp2sSR4eb7fyeNyGFUAOx66Yy+WUXr9+HZY0MTEOWZwIWXIJsuTxyEiOQX//ZyvqbdLDhw8hENi32Nm9WbgCuHYtk+Tzec0NDfV49OgRXtbTp09RWaZBpCgUImEYJOIoJEujsVeTS9d6NRkMhj/5fF4rk8n0WLVNHRwERnVWEsbGxrCwsGDOfGHhD2gP7oc0VojGmr346tQxXDxrQF/XIXqLK0qL6PqamoXS7du3ESnauiAQ8I9aOhbUlbQ1OT4crQc10DVUo03fhPYWLUry5VAmRaPnUAmohPLycqHV1uFAiYqeS0+MgiY3FU3aahzp7kBHmw71+wqwMyJ00cbGxtEikMViRRm7alCcm4zdOTL6SbV+zR4VLp5up8/excF2lBQVoqpiDy6NdNFz3xj19C1TkCFFvlICdVYifV4rdyux6hk0iSCIhImBVot3psmunOvB6aMHMfJpo1W/9joNBSQsAtlsIo3Ktv+jSmjLclCQkQCZOByisGAEvx8Af18SpOc7cHd7CzqdDgMDJxEcuBGxEdugTBajfJcS3U17MTFwmAZ21BeBwWDYWQGyM9zd3eDq6rqqve1FwsPPH65u7ti+IwI3btyAp6cnfHx8lpmvjw/iorcjVyGBjY2NgzWgyhKMMpmuE5LaZhiNRgwPD2N2dhYtLS3w8vIyw0hvb/PY29ubAjpZA2aagrs4OyNHJoJYFISNfp5wdHSErLkDyl4DxBIp1Nom1HZ0YWpqCjnZKsjFYWgsTsWpwxps8CWfA0kwmUwXa0CFCZgeF4bfZ47gt+ke4MeTuHyyFvFaPfIGv8bmLaGQ1TYjyzAEuSIVv37XTfv8PNmJX6a6UF2Q+M9qSRroZhFIEESKCZgcE4KJY/vwveEApvqqUJEjxs79dZC39yK98xgUXceh7OlDcLgIRw+oMNZbDsOhfOhKUhEjDPzPwEQT0NnZmd5GJycnODo5wcXFBe8KwxGSJEeQWApheiaE8gz4BQTQNZRIJBgZGYFarf63niRpvYYEwZJYa5oX7eXOpIILhcJlDUSNGQwG50XI3wX7LVuhchTmAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAcDBgABBf/EACcQAAEDAwMEAQUAAAAAAAAAAAECAwQABREhMVEGEhNBI2FigaHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQMAAhEEEhP/2gAMAwEAAhEDEQA/AEk6fG2VcUdbun7vcYqJLEf416pJcAz+M0My02+4GnFdiF6Z44pr2uK3HiI8brgbUkBKQSQnT1WLpeVZk2cvOG7sVEmLIhyVx5rRafRuD/KjxVp65iNMSIyi6VyC2AcknO+TqSf3VXpl3+tBaCynyuayNx5LYOuTxV/6YuKZVrYSstr8CR3FxzsLeN88il19PVaxUvUGDDKQ4rOide+zhNvEl7yd6CrDZ+wbUHmhqwKON6atfIwQrn0dM//Z" width="28" height="28" alt="" />
@@ -2996,14 +2997,102 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
+                                        <span class="repo">Plexcord/Builds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d3d39fc</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#e4ffed1</div>
+                                        <div class="message">Builds for https://github.com/MutanPlex/Plexcord/commit/e81dddbca559c3e776cdcd509b7440d482b22791</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MutanPlex/Plexcord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e81dddb</div>
+                                        <div class="message">disableDeepLinks: Bug fix</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Plexcord/Builds</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ecca940</div>
+                                        <div class="message">Builds for https://github.com/MutanPlex/Plexcord/commit/b65a8d222381489b592ddb8deeb02ff4c74d16ab</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">MutanPlex/Plexcord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b65a8d2</div>
+                                        <div class="message">bump to 1.12.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c44e71a</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/main'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77bed92</div>
+                                        <div class="message">bump to 1.11.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f23c9e</div>
+                                        <div class="message">ReadAllNotificationsButton: adjust look for new ui</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3dd58c2</div>
+                                        <div class="message">fix RoleColorEverywhere (#3370)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ad33db</div>
+                                        <div class="message">fix plugins using the image modal (#3368)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64dadcc</div>
+                                        <div class="message">DisableDeepLinks Plugin: disables deep links on web/vesktop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5f6605</div>
+                                        <div class="message">VcNarrator: Fix voice selection setting (#3365)</div>
                                     </div>
                                 </div>
                             </section>
@@ -3022,68 +3111,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b0d7674</div>
+                                        <div class="sha">#489be97</div>
                                         <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#912ebab</div>
-                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e2e1c9c</div>
-                                        <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fe3879a</div>
-                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -3255,7 +3284,7 @@ Your support will help me get the tools I need to improve my projects as I devel
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
