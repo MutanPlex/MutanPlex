@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2798" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2933" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 51 users
+                            Followed by 50 users
                         </div>
                     </section>
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1277 Commits
+                            1287 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,13 +185,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    851 MB used
+                                    852 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    445k added, 328k removed
+                                    10.2k added, 74 removed
                                 </div>
                             </section>
                             <section>
@@ -264,12 +264,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 62 commits)</small>
+                    <small class="h-details">(computed from last 67 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 92.8 characters per line of code written</li>
+                        <li>Has approximately 93.0 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -281,7 +281,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.225806451612903px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -325,8 +325,8 @@
                             08
                         </div>
                         <div class="entry">
-                            <span class="value">23</span>
-                            <div class="bar" style="height: 35.9375px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">24</span>
+                            <div class="bar" style="height: 38.70967741935484px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             09
                         </div>
                         <div class="entry">
@@ -340,8 +340,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 3.225806451612903px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -350,8 +350,8 @@
                             13
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 3.225806451612903px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -365,8 +365,8 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 1.6129032258064515px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -376,7 +376,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.451612903225806px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -385,7 +385,7 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">32</span>
+                            <span class="value">31</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             21
                         </div>
@@ -396,7 +396,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.5625px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.6129032258064515px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             23
                         </div>
                     </div>
@@ -431,8 +431,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">7</span>
-                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">12</span>
+                                <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MostFeatured/dbi-bundler</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MostFeatured/dbi-types</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Patches dbi types for you to have auto complate while using locale.</div>
@@ -2594,7 +2594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MostFeatured/LocaleTransformator</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Locale Class Into A Yaml Or Reverse</div>
@@ -2641,7 +2641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MostFeatured/DiscordBotInfrastructure</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">İnternet üzerinde bulabileceğiniz en gelişmiş, güncel ve kullanımı basit Discord bot altyapısı.</div>
@@ -2858,7 +2858,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    51 followers
+                    50 followers
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -2867,7 +2867,6 @@
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFWUlEQVR4nGMQFhKyNDM3NzEliIhRZmFqZm5iyiAsJIQmWlVRGRcTi0sDLmRlbgFnM6AZam5iWl9XN2P6dExtDnb2yK6Gc8NCQutqas1NTN2cXWysrLG71MXJOSoiEi7i7uKK6XFkEU8396SERHMT00B/f6hLZaSlEUrNLS5fvkxM+OIPDQYJCQkIy9HbJ6m+pHhqe3RZno2rO5FGYzWdAeL9sLyMGefWzL28HoJmnFuT3FxhbmoO14DJwONYBmEhIQtbh2mnV8FNhKOgzBRM/RZmdnY2gbbWAVYWiHjDYqhPXPTcy+t3zG49Xpu/fM88iIkTj66Mb6wDmYXkHFsbz8TExtzcjqKi/ri4OgszRwtwjFlbWKIb6ugXsPjIkjdG5m+NzJ/b2i89sHDupfVbl06qTU+DJEAPVzeI6pCQgoqEssbI3LLM5ur0ej/fTKxBwSAsJGRmal6/etr12PCXRmbt6RlrV0zbcGbTvrxM94BgNH9FR1dVRmTVp9Z1haTVxBRERlYhy3Z3dZWXliEiysnbp2f3gi2Lu5dNblxwZu3yy9vjK8vMMKI4MDCnLLu1LLOpuKCnpKDH2ysVJXfY2kHCAZH4Hd3c82ZPnnh05YQ9S8NysuBmWZlb2FhawWLJISamOj+/t6CgLzOzw9zEBmuqYIAbamZi6l0yzTWzzdze3drV3zkszs7FBZJzIBoS4uLBKi0szNzMzVwd7Bzxxb45mGVqZuldPsurbKZbcrl7dpGdGyj9FxuZ2hojCougrFRnf38rcwu4u8JDQq0tLNESLAPcUBtbB+/s9qi2NU7J1Y6hwXZuoBj3MzZ1sXWyNAeFlJmJac26OXGVeYH+AU4hYU4NbVZ1sTrZbmrp2XqudqZGxvBigQFuqLODo5mJWXDFjIjmlakVHQ119eamZlYWlk4hKYGVE1NaalyCg3v2LDB3tDJpULKdH+uwMiXg+H6Pe2/Mrz+XrS3ULLQystFFd6mLo5O5qVlUQlpAUb+LT2hRQlJ2eYdDQEJIfnbumoUVK+dPP7M6uDjeYpaS7QZl7/UJ6Sf25n74Eff2h+ezr4Z33uv1WutMT9JzcMZS9NnZ2EITXW7+9M6eyKbJebP6ppxYEZAQndpebTPFwHadatqZDa2//0JQ1vsfEa++2Tz6rD6tVG99pUm/pomxITjvY6snGnPzkoOCYyryp51ZndNTA4pJL333rf1+KxvhJrb+/lv+5Wfcm+8ODz9q71pov1XFfquKUbQ6lpIfamhWdmNRsZWdQ/ncTvdAP5APUh1DL9/xnNZd+/ot3NCSzz9jX3+ze/TZcE0KxFCzDiWchtZkZmVBEyYMzV9pv6wt4srN4rt3ICY2/fyd+u5HyMuvlg8/6a0pghhqMV8BYai1hSUkAUISfGl6xqLWtgB3D7ihJqt3WG7bZLXI3Gtzbdbd+4WffiS/+xH9+rvLky969z5J7T1gvUbVYoW2+VzcLo0NCZ3R3BLl65ceGg4REe2ebXT8gu1GZfutKjZrVL0OLgx68dX58WeDe58Ub31guviWY9dhlqO31GotcRpqbmIaFxY+qb5hXf+ErVOnt+flOzZ1c+w+agc21H6riuUSA/NdC7WOnVe89YH10lumS+9A6OIbrTgDBhFhYbRCATnP2Vvb1BQUNhUUduUXdJZVCB26Jb8kF2IoBOksdGO6CDPx0juOtVuNbHSRXIqrdjQFkWF+/vmpabqxqUwnHhstMYOYaLdFmXvLZriJTBffSkcmgBK/qIgIXH9pSQm8lEPLC6Cy0c7ezNhELjxeaU60/VYV8xU6/BuXM51/DTXx1FOJ9CIzYxOgoQA8eQINCgLcjQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwMGBAUI/8QALBAAAQQBAwEHAwUAAAAAAAAAAQIDBAURAAYhEhMiIzFBUYEHcZEUQkNhYv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBELklKytlSCtfml3v4H3Hn8/nQ5dXG4d33c2NTznYNRFc7N51JI59QBn+/fV0mKXCK3GAuKhaj4qWzIbcz/v2+daPb8dFLJtJjlpFahuzgtTfGF9aEdwgjPoeNBhS67d309oWtwR742FUXh28V39wJxkDJ4zwcaSqWBTXcIWFXcy65p8hS4ofKEtrwMgD21BapqbPaW5WXJ/U3+lW4W1E+GCCQRnkDOqHs2thPVsgwGC7BRKdRHWpwry2Dxg+2g6Ltdp1SWJMhmOW3cdalIUQSAckfIyNF/wBZduMUtSiy2gyRP6g04gkFtzAPQQT/ACIPl9znTjZqLcB5STg9OjveMVEmikJdKsJU2oYPkesaAZiDcm76uvavWDBrmlJQ4FHxZzhOEIIHpnz+eNO+19sQ6Cii10KI32TKcHu9fPrzqu7Wr2JG5IfbdS0xg440knhKwEJCvvhxf50gIAKRoP/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAT/xAAyEAABAwIEBAQCCwAAAAAAAAABAgMEBREABhIhBxMxQRRRgcEyYQgVFiIkQnFygqHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAgEQACAgICAgMAAAAAAAAAAAABAgADBBESUQUTIVJx/9oADAMBAAIRAxEAPwA24GZNZzZndkVJvXSoI8TKSeirfAj1NvS+NSwqNBp9VqdXkNJVHWoJjbfCEixHyF72wJ8Kku0XhnmCpwjy5rr6WUuEbIsLk+lwfQYRnIk+Ll1D0XMRehzAlBRJYJSls/lRuAXTcWPQ2PywTKcvYR1G4Veqg32lC4sOxswKfjBpsIN+UQN0K7HGedKk7Ww3Z6g/ZyueHaqf1g24rZDjWlaOm2+5I7/rgyrVJ8NVJDZSQNWpP7TuP6IwvEOl1I+TqHwwEeKm01lrgjAbkAAvlUhfnuf8MVPKHFltrLEqFmBEtMeIv8GuM9y1kHokjuB5jcYt30hlGLl6JFZ2ZZZb0pPvjK0eS4H2zsRrBsRt1wHEAyObN2YoscaqtV6jxT4s7ODsnMU5Bjxmh93mdTfpbzJ9vTExWcjyMxGFU6UkLYfitqJt339rY6+KVbl0PKFNh04ttNvwhzFabrOye/8AI4meCNWlP5AiB5SV8pamkkjfSLWwc5Fip7UOhvWopqlyF4N+z//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYABAcB/8QAMBAAAQMCAwUECwAAAAAAAAAAAQIDBAARBQYSEyExQXEUUWGhByIyQlJiY5Gx0fD/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAAwQSI1EiQXHB0f/aAAwDAQACEQMRAD8AxvLbcGPKD+IjZyYjra0utqsVoKwnWB8SCQfEcudSXgSn5UksSBIIfWgOK4ugH2z4m/5ruKzmZEuGy83sm49y4VALWSsgnha3Dd/AFHnXUrckMKbcC3A6APqDV5Wt16VowahZYdXEhm2NWg08xWn4a9CDRe2ZQ6LpKTeqmjwpqzDFdMTC3HHAsuNrWBzAva9uoPGhSYe7hRvK12ECGkNZWCYzrypDj5NfxjFH3W5ik7dtsKAABO4b95JoLhkrZYYFN6NZUAEuJ1lY9fgPtQ3M+KTJUeFCffWuPHTdtJPzlIv32G4Ux5JdWg4alB0hxbuq3OzSlDzJpcZj1ePc0ZiqjqoHf7CDsHteGRJCGFhttrQpwNmxOs8T377VT7KPdBt0rZPR9Fju5DYS4whXaUutuE3uRY/vyFZhskd1RyBvNGxxsrP/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcECAADBv/EACsQAAICAQMBBwMFAAAAAAAAAAEDAgQRAAUGMRITFBVBYXEhUbEHIjOR0f/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQUG/8QAHhEAAQQCAwEAAAAAAAAAAAAAEQABAgMEEhMhMUH/2gAMAwEAAhEDEQA/ABzpCvGBxmbJCER9yda6Wzb9uJ8aFY2rBmHAmGAM4OPUazddo83rQXFs1PVLvEyB6SwcZ9tMTYru4x47Xp+DUohakLLpZDBj6nA6dNZuxj6rmoDr1KDeeTeW7gtiz3iAAGLHr99MetShZrqfAdtbYCcJY6xIyPzpf89/T+Zvq8uwq7ZbmaYMMlwB6nJ6asBwrZG1uIbLXtJkqyqmpbYn0mIAHTKYQ1B7RZWsWYJU7f8AzDOjl94Qyu606tXgkZW1wA/onOueqSPeDUznE/E8PXXfGM1TsKyCPnQziwSaZCSHW9+huPIYXkBtmnQZFje6OO9AI/Z8Hpqwe1Xa+5UFW6s+0poyMdR7H31Xiwpe18TprorgoWbUYsIH1IETL8xGoTOR7nt73IqWCtQlkRHwP81OLZxl2+osqJC//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcDBQT/xAAvEAACAgEDAwEECwEAAAAAAAABAwIEEQUSIQATMUEGUYGyFCIyM2FxkaGxwtHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgYBA//EACARAAEDBAMBAQAAAAAAAAAAAAEAAgMRITFBEmFxseH/2gAMAwEAAhEDEQA/AC60t1zSVor2DYYt2wLirYtUTDB8ZwPh6dY6h7Ord2BCK69hjZyYuchnuRYd/wAoHSjTKVNUV3dHlcrMdNawHUjOMTJgjvDMbRjPvx465li3tsoh2sKtxW36ss4DDgbhtIkfUlh5/bq5jjMxIGBX3tT7QIwpndhBFhYYg7mAsEsYJiZEDx/P49ecW2oJXBp2g8fY/tz1U7WmJuxYGRaBEA7UIYzkTYvG+OSI5WSAffj06A6npT53GFNRkoehm2MCfhLnrJXkM4EYOh97Xdrt1VQ0HXKWpPnX1m2VLZLYlVJ4gB69ye08kY9eOPHnraGmixYU+tGu3utaEujKI4gTkjKyVg+QBvHPGOpRZK06LXsIQtbZPdAmOTwISwOSek1LV7pt1ohxjBE5wXGPAA7cP9PQBdG4hpvfywRIrlJ9S1GtpumVrNKwyFliongs7J4+6wDg45yTzkk5B8cl/tCt0oscmU3SiCwhjfP/AGPU/n0L1W+5j7cpbcysKicDyCCT8o6aaXYnL6X3MMMbE4AzyTiOIgfoB0oYubqnf4g+uAv/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUEBwH/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREAEhMhMSJBUWEGFBUjUnHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB8RAAIBBAIDAAAAAAAAAAAAAAABEQIDISIxQRIyUf/aAAwDAQACEQMRAD8AXvMvfYXYR7X7g4iT64wXZcVCV52BYqaBuXP4CwOKlRcDLrh1nRvt1Y5vUvki6bXpLLbX7SoOJS4rIsk+Txx5xKl8Ulizl8C2hP1WUXPsJabiISNIOpOsr2Te1u1ufeKi0L2yIRxvcHnAWl/KH01iO3KguJXNIQFCQk9+dh7w6k5StN5jjXSNr8++MD4PsyupTpwH5RFUqr8lZQ1HZUQmwsSQN1k/5jLR6jFb/J1OWxnLyc99O7buQb27X7YmxXM0AZ0Nrud8wvjJUa7LmIp9IfDJhvPZFAI6gPAPbAq44Yz1iOjykvRJlQElxkg6uqlpsXQg39DDOROZUUF2PqHILHTzWHj1/WObfH5a29ZKEoASskdOEhnOhKNkbi/GKalkVf1uNUn/2Q==" width="28" height="28" alt="" />
@@ -2993,14 +2992,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
+                                        <span class="repo">MutanPlex/random-files</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0586c1e</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#790752b</div>
+                                        <div class="message">Add files via upload</div>
                                     </div>
                                 </div>
                             </section>
@@ -3013,14 +3012,42 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
+                                        <span class="repo">Plexcord/Builds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fc5a6fa</div>
-                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#6b49363</div>
+                                        <div class="message">Builds for https://github.com/MutanPlex/Plexcord/commit/9747ca339fcdf88a2463acb40ef40dc3db5616da</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">MutanPlex/Plexcord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9747ca3</div>
+                                        <div class="message">GithubRepos: Bug fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12fe20b</div>
+                                        <div class="message">BetterBlockedUsers: Bug fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52ffaa0</div>
+                                        <div class="message">whosWatching: Bug Fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -3033,14 +3060,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
+                                        <span class="repo">Plexcord/Builds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#778f615</div>
-                                        <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#a9f90ea</div>
+                                        <div class="message">Builds for https://github.com/MutanPlex/Plexcord/commit/3765628d0c3cfb2f0685b4edc460ef822b0af649</div>
                                     </div>
                                 </div>
                             </section>
@@ -3052,35 +3079,39 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
+                                        Pushed 7 commits in
+                                        <span class="repo">MutanPlex/Plexcord</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b293774</div>
-                                        <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#3765628</div>
+                                        <div class="message">Remove dev</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MutanPlex/MutanPlex</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fc48f75</div>
-                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#320cdc3</div>
+                                        <div class="message">Remove LastFM plugin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fb1534</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/main'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#096f848</div>
+                                        <div class="message">MutualGroupDMs: fix weird spacing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fa91c1</div>
+                                        <div class="message">Fix ServerInfo, ShowMeYourName &amp; WebContextMenus</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dad69e0</div>
+                                        <div class="message">Fix Vencord Notifications &amp; ImageZoom causing crashes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#700b971</div>
+                                        <div class="message">MutualGroupDMs: fix display in dm profile sidebar</div>
                                     </div>
                                 </div>
                             </section>
@@ -3252,7 +3283,7 @@ Your support will help me get the tools I need to improve my projects as I devel
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
                         </div>
                     </section>
                 </div>
