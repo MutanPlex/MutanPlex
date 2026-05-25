@@ -113,13 +113,15 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2012%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 455.7 kB Used in GitHub's Storage 
+> 📦 453.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,043 Contributions in the Year 2026
+> 🏆 1,058 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -140,7 +142,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 20:23:53 UTC
+ Last Updated on 25/05/2026 20:12:16 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
