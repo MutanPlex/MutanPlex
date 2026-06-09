@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 113 users
+                            Followed by 114 users
                         </div>
                     </section>
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4612 Commits
+                            4615 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2669,10 +2669,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    113 followers
+                    114 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYABQcB/8QALhAAAQMCBQMCBAcAAAAAAAAAAQIDBAURAAYSITETIkFRcRYjJGElNIGhseHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRMTJB/9oADAMBAAIRAxEAPwBCy7RyqBLnzpMlyBFPcljs1C9rnjs+/oCcMMmmNPIYagUENIcaJLlg7Ym+glZ44IO3Pn1NyYVxqw7S5TaBGejkg6rgi/8AuLyTTK38XxHXFiNRIyVEMh6zdkAWHTG3nne+LlNVhO9FWmxiZa8v1RmNAkyW7MvNBJN+LG1v0JtvjH57E+nz5UVx35jTqm16zvqSbH+Mapmmkx4+aJcuBUkIt9alOy7LvwTyCF/tjtezizLltPsQLKW0C6Otps5c39/fHYyT6M09QPR61BgVWe88iStbQIZZSm/UBO5v4/vDhSszOVByMX0sstOuFrplWtY7NQvfYboHIPOM6yL+J50isS+9C23AbbHziZ2kKp0kGGlDShJB1IFjdIVY7ecJXNh+jLXqhSmI0ZWrozGagvU1pBRZBBNvBG9vHFvGEB6ohcqS4DoS46pwJ9ATfA735BUo7uqBNjwPYYuGaLEW2lauoVEAnu+2FytsLD//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAgGBwIFCf/EAC8QAAEDAgUBBgUFAAAAAAAAAAECAwQFEQAGBxIhEwgjMUFhgRQWUZGhIjIzQnL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AVTBMaLIkvtssNKcdd4QkDlXlxjGMltb7aXioNlQCikXIHnYYunTKj5QpjTuYc2zIUpLSO4hK7xrrEHY2VHghI8Rfk/4uQiVbyhI+caNkmBZc5tCESVAXCX1/qdUfRCbA+jd8D6iRTUM1SY9DiPPU2lpTTWFC17NCxuR4m9zf1xaGnVAo66FXcxQ1xZ2Y5S1fBxIz5C4wJ4/j5BJIT9LBRPB4YbTvKMDI2VIlJfiKlzVXkS3+nv6jyv3G/tgE27P8NMvVGjrca6qYzgf2EXBsRf8AFz7Ycev6WUOq0BqhtoDFGRNE9MXaVhLnN9tzwFbjceptYm+E77P812JqLASztHWWhCiRyAVpSbeyiPfHQKIoqisKPipAJ+2AgGQtJ6Bk+CphsOTnOul9p2SbqYKL7Q2fFIBUvz/sfridvw0vLCuq+iwtZtwpH2wXjS1iQ61KCULIGwH8nAf/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcC/8QAKhAAAQQBAgUCBwEAAAAAAAAAAQIDBBEFACESEzFBUSJhBhQVMnGBwaH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwEEBf/EAB0RAAMBAAEFAAAAAAAAAAAAAAABAgMREhMhMUH/2gAMAwEAAhEDEQA/AN0+oTZk0tNyPkYbab2SC8r3JNgDptV/jQ8SdFlsyVtz5SnI9ly3Pa+4rSfJOuvzJamillC4/KFH7FDrfm/PuNLMfiPiGHjB9Sjwr9UdQiKWeY366co3RNixZ76yXVX9LShFiz2SyGCY+beZanweIgls8t1H6NhX+ddHRM/Hfhx3/W0HW0uBDg9QBF78O2s/ay6stgGsewJJQpQbZcfaLZcQNro+OA3+L76s7ba4zLTDoa4m0BH3eNv5o8tKltMntpoIlY2M6zJQ24ZElwkp5OwCu1gdBsNMccnJtQGxmFRg411cS6TxDyRWx80a8a5iuqZjLUk2UE8JPbfUGSxsc8x15JfWEc0l2lcR/g9hWgU8heAN97GTXnZs/luOtOBtkcXoJ7UB169N9PUuSXLMSK0lm6AWN9Q42KycglvgAQUJ2H71Z4rCGmQhApI03PLq9iqvg//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQgH/8QALhAAAgEDAgMGBQUAAAAAAAAAAQMCBAURABIGITEHEyJBUXEUIzKBkWGhsuHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABEQIhMf/aAAwDAQACEQMRAD8Ah2i8YniG9PYt5lSr+WhfQCPrjVDR0j62E40lO501x7xhVH6B6k+Q0I62ujUtU5LINgcMiRzhg89dJ7KFPnZ7raEUjJwuHynVQkB3IMCAenPrpuGlJ+CVYq6VnuS6unI7xJEzEEjI9xz1q2xVy62z0dUqe5b1hkCyXi2npk+fvrOdBbY2zhXiOgu1E0vTJc1s25EDkDIn9/wTrQXA9OaXhCzq37jGlVzx18Ax+2NInsSu0u3QstzVxHSWuNeX7aWopgdm7PITzg4P0jpplsdvoEJh3KVrZjBH+66GvFxqY8WWqklOLKeqOJQnEEQ9v7zo6cgu81VNBawqEETAx5yM8/xGicHjbkI3Sx097bT01Uo/DKkGswMCYHRf5wft+umhUYKXGEAIxiMAeg0Guonv24jgAeXtopDDNQlLGdCJN0//2Q==" width="28" height="28" alt="" />
@@ -3068,7 +3069,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
